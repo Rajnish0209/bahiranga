@@ -137,6 +137,7 @@ const Contact = () => {
                             <p className="font-semibold text-on-surface mb-1">Contact Information</p>
                             <p>
                                 <a href="mailto:bahirangasinikoota@gmail.com" className="hover:text-primary transition-colors block mb-1">bahirangasinikoota@gmail.com</a>
+                                <a href="tel:+918073728476" className="hover:text-primary transition-colors block">+91 9555513494</a>
                             </p>
                         </div>
                     </div>
