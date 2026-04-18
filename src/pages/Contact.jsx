@@ -132,7 +132,7 @@ const Contact = () => {
                         </div>
                         <div className="font-body text-sm text-on-surface-variant">
                             <p className="font-semibold text-on-surface mb-1">Physical Location</p>
-                            <p>140 Sector IV, HSR Layout<br />Bangalore, Karnataka 560102<br />India</p>
+                            <p>Meri Hil Bharat petrol pump nearby bike studio ballal compound  Airport Road, Yeyyadi<br />Mangalore, Karnataka 575008<br />India</p>
                         </div>
                     </div>
                 </div>
